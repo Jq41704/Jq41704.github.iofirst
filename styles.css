@@ -17,6 +17,8 @@ Assignment : Final Project Online Profile
 
 /*thankyou.html*/
 
-@media screen and(max-width=360px) {
-    
+@media screen and (max-width: 360px) {
+    body{
+        text-align: center;
+    }
 }
